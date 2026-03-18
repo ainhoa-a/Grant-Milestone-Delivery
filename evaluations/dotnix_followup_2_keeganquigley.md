@@ -15,3 +15,5 @@
 | 3. | Bash completion | <ul><li>[x] </li></ul> | https://github.com/sporyon/dotnix-core/commit/88d566372d584b699bb92b45862a8191ff7fe4de | 
 
 # General Notes
+
+Docker builds successfully. CI and bash completion work as expected.
